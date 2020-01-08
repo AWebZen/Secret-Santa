@@ -2,10 +2,10 @@
 """
 @author: awebzen
 """
-import numpy as np
 from copy import deepcopy
 import smtplib, ssl
 
+import numpy as np
 
 class SecretSanta:
     def __init__(self, names, emails, exceptions):
