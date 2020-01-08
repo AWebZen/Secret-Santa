@@ -1,5 +1,5 @@
 # Secret-Santa
-In Python 3.5
+In Python 3.5, dependencies Numpy
 
 Simple program to create a Secret Santa for family and friends.
 
